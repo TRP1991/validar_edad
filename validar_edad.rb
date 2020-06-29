@@ -6,6 +6,6 @@ def validar_edad (edad)
    end
 end
 
-validar_edad (rand())
-validar_edad (rand(3))
-validar_edad rand 3
+validar_edad rand 
+validar_edad rand 50
+validar_edad rand 10
